@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dbupdater", "Dbupdater\Dbup
 EndProject
 Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "VuejsApp1", "VuejsApp1\VuejsApp1.njsproj", "{5E29F751-A9B2-4AFD-8DFB-A00D411B5966}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyApp.api", "EasyApp.api\EasyApp.api.csproj", "{14A1E104-A235-4411-81F7-71EADADF92D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{5E29F751-A9B2-4AFD-8DFB-A00D411B5966}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E29F751-A9B2-4AFD-8DFB-A00D411B5966}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E29F751-A9B2-4AFD-8DFB-A00D411B5966}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14A1E104-A235-4411-81F7-71EADADF92D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14A1E104-A235-4411-81F7-71EADADF92D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14A1E104-A235-4411-81F7-71EADADF92D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14A1E104-A235-4411-81F7-71EADADF92D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
